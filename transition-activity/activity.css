@@ -1,1 +1,10 @@
+/* Change color of beginning state and add hover */
 
+.transform {
+    transition-duration: 2s;
+  }
+  
+  .transform:hover {
+    background-color: cornflowerblue;
+    color: ghostwhite;
+  }
